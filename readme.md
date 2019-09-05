@@ -33,7 +33,6 @@ An article explaining our ambitions and results related to the plugin, as well a
 
 ## Coming soon
 
-- Sonarqube branch support (available only with a paid license)
 
 
 ## Android Integration
